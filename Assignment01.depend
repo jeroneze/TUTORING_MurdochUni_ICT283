@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1635083829 source:d:\tutoring\c++ v2\assignment 1\assignment01\main.cpp
+	<iostream>
+	"Date.h"
+	"Time.h"
+	<fstream>
+	<cmath>
+
+1635064861 source:d:\tutoring\c++ v2\assignment 1\assignment01\date.cpp
+	<iostream>
+	"Date.h"
+
+1635064864 d:\tutoring\c++ v2\assignment 1\assignment01\date.h
+	<iostream>
+	<string>
+	"Vector.h"
+	<sstream>
+
+1635061503 d:\tutoring\c++ v2\assignment 1\assignment01\vector.h
+
+1635057614 source:d:\tutoring\c++ v2\assignment 1\assignment01\time.cpp
+	<iostream>
+	"Time.h"
+	<cstring>
+	<string>
+	"Vector.h"
+	<sstream>
+
+1635057599 d:\tutoring\c++ v2\assignment 1\assignment01\time.h
+	<iostream>
+	<string>
+	<cstring>
+
